@@ -1,12 +1,9 @@
-# Lite-Framework
+# hellium-Framework
 
 A simple php Framework for building web application
 
 # Installation
 
 ```console
-$ composer create-project --prefer-dist mamadou-aly-sy/metro blog
+$ composer create-project --prefer-dist mamadou-aly-sy/hellium blog
 ```
-# Hellium
-# Hellium
-# Hellium
